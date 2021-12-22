@@ -1,0 +1,6 @@
+[200~firstName Nataliya
+lastName Zykova
+age 39
+pets dog
+expectedSalary 1600
+currency Eur
